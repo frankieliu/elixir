@@ -1,0 +1,12 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+* what is atom
+identifiers (enums)
+
+* what is << >>
+<<"Hello">> === "Hello"  # true
+
+* map |
+map = %{map | :key => 1}
+
